@@ -1,4 +1,4 @@
-<h1># Tugas-Haki-Lisensi<h1>
+<h1># Tugas-Haki-Lisensi</h1>
 belajar membuat lisensi dan readmi aplikasi
 
 A. Identitas Produk Perangkat Lunak
